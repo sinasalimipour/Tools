@@ -2,7 +2,7 @@
 
 # 📁 mRemoteNG Folder Structure
 
-a powershell to crate this Structure in mRemoteNG 
+a powershell to create this Structure in mRemoteNG 
 
 ## CSV
 
